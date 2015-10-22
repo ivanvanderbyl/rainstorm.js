@@ -1,3 +1,3 @@
-# Rainstorm DB
+# Rainstorm
 
-An attempt to create a light weight in memory (browser based) time series database which supports appending new data and calculating various metrics over the data.
+Rainstorm is a data store for time series data in Ember applications. It stores all data in series and provides utilities for processing this data.
